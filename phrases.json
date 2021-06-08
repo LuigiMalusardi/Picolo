@@ -1,0 +1,1805 @@
+{   "giochi": 
+    [
+    "\"I colori dei vestiti di $1\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $2 inizia",
+
+    "\"I colori sul viso di $1\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $2 inizia",
+
+    "\"Gli alimenti che non piacciono nè a $1 nè a $2\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $3 inizia",
+
+    "\"I rumori fatti dal corpo\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"I tipi di biancheria intima\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Paesi europei\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"I frutti o le verdure che possono essere sinonimi di pene\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"I frutti o le verdure che possono essere sinonimi di vagina\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Mestieri che iniziano con la G\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"I luoghi dove non si può cagare\"\nIl giocatore che ne ripete uno o non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Social Network\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "I sinonimi di \"lei è sexy\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "I sinonimi di \"lui è sexy\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I maghi che fanno parte di Serpeverde\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I maghi che fanno parte di Griffondoro\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I maghi che fanno parte di Tassorosso\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I maghi che fanno parte di Corvonero\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I colori dei Power Rangers\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I videogiochi di guerra\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Modi per far smettere un neonato di piangere\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Gli strumenti di un dentista\"\nIl giocatore che ne ripete uno o non ne trova più beve 5 sorsi, $1 inizia",
+
+    "\"Gruppi di Rock Metal\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Musical\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Vestiti estivi\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Gli ex di tutti tranne i propri\"\nIl giocatore che ne ripete uno o non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"I buoni dei film\"\nIl giocatore che ne ripete uno o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Modi crudi per dire \"non mi piaci\"\"\nIl giocatore che ne ripete uno o non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Gli analcolici che si mischiano con l'alcol\"\nIl giocatore che ne ripete uno o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Parole/Espressioni sinonimi di masturbarsi\"\nIl giocatore che ripete una parola o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Parole/Espressioni sinonimi di ano\"\nIl giocatore che ripete una parola o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Parole/Espressioni sinonimi di vagina\"\nIl giocatore che ripete una parola o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "Insulti che finiscono con \"ano\"\nIl giocatore che ripete una parola o non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Cose con delle maniglie\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Cose che si possono far bucare da qualcuno\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le professioni che vengono inscenate nei film XXX\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Le unità di misura\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Le categorie di video porno\"\nIl giocatore che ne ripete una o che non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Cose che hanno più di cent'anni e sono ancora utilizzate\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Cose ammazza-desiderio\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le cose che costano meno di 1 euro\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le cose con dei bottoni\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le cose che si possono succhiare\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Cose da fare in un letto\"\nIl giocatore che ne ripete una o che non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Alternative per dire \"Buongiorno\" in italiano\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le amiche in comune più stupide di $1\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $2 inizia",
+
+    "\"Le grandi città di Game Of Thrones\"\nIl giocatore che ne ripete una o che non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"I personaggi deceduti di Game Of Thrones\"\nIl giocatore che ne ripete uno o che non ne trova più beve 4 sorsi, $1 inizia",
+
+    "\"Cose da mangiare che si vendono in spiaggia\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Le cose per le quali ci si fa licenziare\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Cose da portare in vacanza\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Cose che i bambini ripetono spesso durante uno spostamento in macchina\"\nIl giocatore che ne ripete una o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Posizioni sessuali\"\nIl giocatore che ne ripete una o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le abilità speciali dei pokemon\"\nIl giocatore che ne ripete una o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"le fobie comuni\"\nIl giocatore che ne ripete una o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Le app di siti di incontri\"\nIl giocatore che ne ripete una o non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Cose con dei buchi\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Cose da fare quando si parla al telefono con qualcuno noioso\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Cose che si aprono molte volte durante una giornata\"\nIl giocatore che ne ripete una o che non ne trova più beve 5 sorsi, $1 inizia",
+
+    "\"I piatti che si possono trovare in tutti i ristoranti cinesi\"\nIl giocatore che ne ripete una o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Cose da fare con il profilo Facebook di un amico\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Cose presenti in un giardino durante una festa di bambini\"\nIl giocatore che ne ripete una o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Gli amici in comune tra $1 e $2\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $3 inizia",
+
+    "\"Monete straniere\"\nIl giocatore che ripete un nome o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Supereroi\"\nIl giocatore che ripete un nome o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"Dittatori celebri\"\nIl giocatore che ripete un nome o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"I personaggi di DragonBall Z\"\nIl giocatore che ripete un nome o che non ne trova più beve 3 sorsi, $1 inizia",
+
+    "\"I film della saga di Harry Potter\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I film della saga di Star Wars\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I film della saga di Pirati dei Caraibi\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I personaggi di Harry Potter\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I personaggi di Star Wars\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"I personaggi di Pirati dei Caraibi\"\nIl giocatore che ripete un nome o che non ne trova più beve 2 sorsi, $1 inizia",
+
+    "\"Nomi di città che iniziano con una lettera stabilita da $1\"\nIl giocatore che ripete un nome o non ha più idee beve 4 sorsi! $2 inizia",
+
+    "\"Le persone celebri conosciute per essere dei playboy\"\nIl giocatore che ripete un nome o non ha più idee beve 2 sorsi! $1 inizia",
+
+    "A turno, avete esattamente 2 secondi per dire una parola legata con la parola precedentemente detta.\nIl giocatore che perde beve 4 sorsi! $1 sceglie la sua parola e inizia",
+
+    "A turno, fate un gesto dopo aver ripetuto quello che è stato fatto prima.\nIl giocatore che perde beve 4 sorsi! $1 sceglie la sua parola e inizia",
+
+    "Fate un giro di tavolo sul vostro ultimo film visto, quelli che hanno visto lo stesso film bevono 3 sorsi insieme",
+
+    "$1 pensa ad una cosa che faresti se fossi ricco-a. A turno provate ad indovinarla, il primo che ci riesce distribuisce 2 sorsi. $2 inizia",
+
+    "A turno, fate lo spelling del cognome del-la vostro-a vicino-a di destra.\nI giocatori che sbagliano bevono 2 sorsi! $1 inizia",
+
+    "A turno, fate lo spelling del cognome del-la vostro-a vicino-a di sinistra.\nI giocatori che sbagliano bevono 2 sorsi! $1 inizia",
+
+    "A turno, dite qual è il prezzo delle vostre scarpe.\n Il lord con il paio più costoso beve 2 sorsi",
+
+    "A turno, ripetete 5 volte di seguito \"Tre tigri contro tre tigri\" in meno di 5 secondi.2 sorsi da distribuire per i vincenti, 2 sorsi da bere per i perdenti. $1 inizia",
+
+    "A turno, bevete il numero di punti della patente che avete perso, $1 inzia",
+
+    "Giro di tavolo, quelli che stanno guardando le stesse serie tv in questo periodo bevono 4 sorsi",
+
+    "Rime con \"uto\" e 3 sorsi in gioco! $1 inizia",
+
+    "Gioco dei temi e 4 sorsi in gioco: \"I puffi\", $1 inizia",
+
+    "Gioco dei temi e 2 sorsi in gioco: \"Serie TV\", $1 inizia",
+
+    "Nuovo tema e 2 sorsi in gioco: \"ciò che $1 ha in meno di $2\",$3 inizia",
+
+    "Nuovo tema e 2 sorsi in gioco: \"I personaggi di Desperate Housewives\",$1 inizia",
+
+    "Nuovo tema e 2 sorsi in gioco: \"i danni di una grande sbronza\",$1 inizia",
+
+    "Nuovo tema e 2 sorsi in gioco: \"canzoni di Micheal Jackson\",$1 inizia",
+
+    "Nuovo tema e 3 sorsi in gioco: \"le prove della maturità scientifica\",$1 inizia",
+
+    "Nuovo tema e 2 sorsi in gioco: \"gli animali che possono qualificare una persona\",$1 inizia",
+
+    "Nuovo tema e 2 sorsi in gioco: \"le canzoni di Vasco Rossi\",$1 inizia",
+
+    "Nuovo tema e 5 sorsi in gioco: \"le squadre di calcio della serie A, $1 inizia",
+
+    "Scegliete assieme la persona più bella che dovrà bere 3 sorsi",
+
+    "Scegliete assieme chi ha gli occhi più belli, bello sguardo berrà 3 sorsi",
+
+    "Scegliete assieme la persona più intelligente che dovrà bere 3 sorsi",
+
+    "Scegliete assieme la persona meno intelligente che dovrà bere 3 sorsi",
+
+    "$1, scegli una parola. La prima persona che canta un pò di una canzone che contiene la parola distribuisce 3 sorsi",
+
+    "$1, dì un'affermazione su di te, vera o falsa.\nGli altri dovranno dire a turno se è vera o falsa. Alla fine chi perde beve 5 sorsi, $2 inizia",
+
+    "A turno, muovete le vostre orecchie, quelle o quelli che non lo sanno fare 3 sorsi",
+
+    "Obbligo o verità? A turno, giocate con il-la vostro-a vicino-a di destra, 2 sorsi in caso di rifiuto. $1 inizia",
+
+    "Dite una lettera a turno, lo scopo del gioco è comporre una parola esistente.\nIl giocatore che finisce la parola, o che compone una parola che non esiste beve 2 sorsi. $1 inizia",
+
+    "Gioco dello stronzo! A turno, scegliete qualcuno che berrà 2 sorsi, $1 inizia",
+
+    "Durante una settimana meglio non lavarsi più i denti o non farsi più la doccia?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Mentre si fa la cacca in bagno meglio leggere o giocare?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "A favore o contro il costume intero?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "A favore o contro cancellare lo storico del proprio browser tutte le settimane?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Le tette, meglio troppo grandi o troppo piccole?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio parlare solo giapponese o essere mascherati da pirata tutti i giorni?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio adottare un piccolo di pinguino o un piccolo di scimmia?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio non bere più alcol o non mangiare più carne?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio vincere un giro attorno al mondo o non fare mai la cacca(sparirebbe da sola)?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio conoscere tutte le lingue del mondo o poter parlare agli animali?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio farsi un anno di prigione o essere solo-a sulla Terra per 5 anni?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio avere più soldi o più tempo?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio cane o gatto?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio lavorare per Google o per Facebook?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio Silente o Gandalf?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio poter camminare sull'arcobaleno o parlare alle mosche?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio poter fare apparire una pizza in qualsiasi momento o avere sempre l'alito fresco?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio farsi bucare un occhio o camminare a quattro zampe per un anno?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio non poter più vedere allo specchio il proprio riflesso o non poter più fare la doccia?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio trovare il vero amore o 10 milioni di euro?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio entrare in un reality o rimanere disoccupato-a per 2 anni?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi",
+
+    "Meglio perdere la metà del vostro peso o raddoppiarlo?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi",
+
+    "Meglio essere la persona più intelligente del mondo o la più sexy?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio la musica di un tempo o la musica di oggi?\nVotate tutti contemporaneamente, chi è in minoranza beve 4 sorsi",
+
+    "Meglio essere un ninja o un pirata?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio fonduta o raclette?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio farsi amputare una mano o un piede?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi",
+
+    "Meglio urinare succo d'arancia o avere la saliva al sapore di limone?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio essere invisibili quando si vuole o fare in modo che la speranza di vita di ciascuno sia di 300 anni?\nVotate tutti contemporaneamente, chi è in minoranza beve 4 sorsi",
+
+    "Meglio restare bloccato per 5 ore in ascensore o sulla seggiovia?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio andare in pre-pensionamento con 1 milione di euro o avere il lavoro dei sogni per 2000 €/mese?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio essere handicappato e super intelligente o normale e completamente stupido?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Ragazze, meglio assorbente esterno o interno?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi. Intanto i ragazzi possono bere 3 sorsi",
+
+    "Meglio non avere mai bisogno di nutrirsi o trasformarsi in un altro essere umano quando si vuole?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi",
+
+    "Meglio non avere più bisogno di dormire o spostare gli oggetti con il pensiero?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio avere un siamese o non potersi più avvicinare a nessuno a meno di 5m?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio Claudio Bisio o Carlo Verdone?\nVotate tutti contemporaneamente, chi è in minoranza beve 4 sorsi",
+
+    "Meglio parlare 9 lingue o mangiare senza mai ingrassare?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "A favore o contro tatuarsi sulla fronte \"Imposte\" e non doverne più pagare?\nVotate tutti contemporaneamente, chi è in minoranza beve 4 sorsi",
+
+    "A favore o contro giocare alla roulette russa una volta nella vita per 100 miliardi di euro?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi",
+
+    "A favore o contro il gel nei capelli?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "A favore o contro avere un trattore?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "A favore o contro vomitare nel mezzo della serata?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi",
+
+    "A favore o contro scoreggiare Hugo Boss ma minimo 100 volte al giorno?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio rum o whisky?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio avere conoscenze illimitate o dirigere l'intero mondo?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio leccare i piedi del-la tuo-a vicino-a di destra o di sinistra?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "A favore o contro i bagni misti?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Il tuo bambino di 5 anni ha un mono ciglio, glielo depili o no?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio un giorno di pioggia o di neve\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio assomigliare a $1 o a $2?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Sarebbe meglio conoscere la data e le circostanze della tua morte?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio la pepsi o la Coca-Cola?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio mangiare uno scarafaggio vivo o essere calvo?\nVotate tutti contemporaneamente, chi è in minoranza beve 4 sorsi",
+
+    "Meglio i piercing o i tatuaggi?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio non avere internet o non avere il cellulare?\nVotate tutti contemporaneamente, chi è in minoranza beve 4 sorsi",
+
+    "Meglio sbattere il mignolo nell'angolo di un mobile tutti i giorni o farsi la doccia due volte a settimana?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi",
+
+    "Meglio vincere la lotteria o vivere due volte più a lungo?\nVotate tutti contemporaneamente, chi è in minoranza beve 2 sorsi",
+
+    "Meglio volare o teletrasportarsi?\nVotate tutti contemporaneamente, chi è in minoranza beve 5 sorsi. Tutti scelgono tra Bianco o Nero, chi è in minoranza beve 5 sorsi",
+
+    "Ogni persona beve un sorso e legge ad alta voce il contenuto del suo ultimo messaggio Whatsapp inviato, $1 inizia",
+
+    "Ognuno può distribuire a turno tanti sorsi quanti nomi possiede. $1 inizi tu",
+
+    "Meglio sbarazzarsi di tutti quelli che non sanno guidare o non dover più aspettare in fila?\nVotate tutti contemporaneamente, chi è in minoranza beve 3 sorsi!",
+
+    "Meglio morire con la testa incastrata in ascensore o scivolando su una buccia di banana?\nVotate tutti contemporaneamente chi è in minoranza beve 5 sorsi!",
+
+    "Meglio calcio o basket?\nVotate tutti contemporaneamente chi è in minoranza beve 2 sorsi!",
+
+    "Meglio avere un ragno che esce dalla bocca ogni volta che la apri o un assorbente interno usato?\nVotate tutti contemporaneamente chi è in minoranza beve 2 sorsi!",
+
+    "Meglio fare pipì in piedi o seduto?\nVotate tutti contemporaneamente chi è in minoranza beve 2 sorsi!",
+
+    "Meglio i gatti o i cani?\nVotate tutti contemporaneamente chi è in minoranza beve 4 sorsi!",
+
+    "Meglio poter controllare i proprio sogni o poterli registrare e rivederli?\nVotate tutti contemporaneamente chi è in minoranza beve 4 sorsi!",
+
+    "$1 fa una domanda. La prima persona a rispondere distribuisce 4 sorsi",
+
+    "A turno: avete 1 secondo per dire una parola che,dopo la precedente può comporre una frase di senso compiuto, chi perde beve 2 sorsi, $1 inizia!",
+
+    "$1 inizia con \"c'era una volta\", aggiungi al massimo 3 parole, a turno ripetete quello che è stato detto e aggiungete una parte della storia, il primo che sbaglia beve 4 sorsi",
+
+    "$1 devi dire \"nella mia valigia c'è\", inizia dicendo una cosa qualsiasi, ogni giocatore ripete quello che hai detto e aggiunge un elemento, il primo a sbagliare beve 3 sorsi",
+
+    "$1 canta una canzone con la bocca piena (riempila come puoi), la prima persona ad indovinare distribuisce 3 sorsi",
+    "$1, dice i nomi e le età di ognuno dei partecipanti, il giocatore sul quale ti sbagli ti darà tutti i sorsi che vuole",
+
+    "Tutti a scuola! Disegnate un piccolo pisello su un foglio tranne $1 che deciderà qual è il più bello, il vincitore distribuirà 5 sorsi!",
+
+    "\"Le cose che $1 non sopporta\", il giocatore che ripete una cosa o non a più idee beve 3 sorsi! $2 inizia",
+
+    "\"Quello che la tartaruga Franklin sa fare\", il giocatore che ripete una cosa o non a più idee beve 3 sorsi! $1 inizia",
+
+    "\"I criteri di selezione di un partner sessuale per $1\", il giocatore che ripete una cosa o non a più idee beve 3 sorsi! $2 inizia",
+
+    "\"Cose che si possono trovare per terra in una camera di un adolescente\".\nIl giocatore che ripete una cosa o non a più idee beve 3 sorsi! $1 inizia",
+
+    "Rima con \"inge\", il giocatore che ripete una parola o non a più idee beve 2 sorsi! $1 inizia",
+
+    "Ogni giocatore dice a turno qualcosa che non ha mai fatto, quelli o quelle che l'hanno già fatto bevono, $1 inizia",
+
+    "Ogni giocatore dice a turno qualcosa che ha già fatto quelli o quelle che non l'hanno ancora fatto bevono, $1 inizia",
+
+    "$1 e $2 si sfidano alla guerra dei pollici! Chi perde beve 2 sorsi",
+
+    "$1, sfida chi vuoi alla guerra dei pollici, chi perde beve 4 sorsi",
+
+    "$1, pensa ad un'amica sexy che tutti conoscono. Tutti i giocatori ne dicono una, il primo che indovina distribuisce 3 sorsi. $2 inizia",
+
+    "$1, pensa ad un'amico sexy che tutti conoscono. Tutti i giocatori ne dicono uno, il primo che indovina distribuisce 3 sorsi. $2 inizia",
+
+    "Piccolo giro di morra cinese! Ognuno gioca una volta a turno contro il-la vicino-a di sinistra. Il vincitore distribuisce 2 sorsi, l'altro li beve... $1 inizia",
+
+    "$1, bevi 2 sorsi. Il-la vicino-a di destra uno in meno, così di seguito fino ad arrivare a 0",
+
+    "$1, bevi 3 sorsi. Il-la vicino-a di destra uno in meno, così di seguito fino ad arrivare a 0",
+
+    "$1, bevi 2 sorsi. Il-la vicino-a di sinistra uno in meno, così di seguito fino ad arrivare a 0",
+
+    "$1, bevi 3 sorsi. Il-la vicino-a di sinistra uno in meno, così di seguito fino ad arrivare a 0",
+
+    "$1, imita un altro giocatore, la prima persona che indovina distribuisce 2 sorsi",
+
+    "$1 mima una scena di un film, il primo giocatore che indovina distribuisce 3 sorsi",
+
+    "A turno dovrete dire \"Per favore\" in una lingua straniera.\nIl giocatore che ripete una parola o che non ne trova più beve 4 sorsi. $1 inizia",
+
+    "A turno dovrete dire \"Buongiorno\" in una lingua straniera.\nIl giocatore che ripete una parola o che non ne trova più beve 4 sorsi. $1 inizia",
+
+    "A turno dovrete dire \"Arrivederci\" in una lingua straniera.\nIl giocatore che ripete una parola o che non ne trova più beve 4 sorsi. $1 inizia",
+
+    "A turno dovrete dire \"Grazie\" in una lingua straniera.\nIl giocatore che ripete una parola o che non ne trova più beve 4 sorsi. $1 inizia",
+
+    "Trovate il seguito! $1, inizia cantando una canzone, indica un giocatore con il dito quando vuoi per farlo continuare con la canzone. E così di seguito fino a quando un giocatore perde e beve 3 sorsi"
+
+    ],
+    "obblighi":
+    [
+        "I single fanno bere 3 sorsi a una sola persona",
+
+   "Quelli che si sono già masturbati davanti a un video musicale bevono 4 sorsi",
+
+   "Le persone impegnate fanno bere 5 sorsi a una sola persona",
+
+   "Chi ha più amici su Facebook beve 2 sorsi",
+
+   "Bevi 3 sorsi se sei già stato-a cornuto-a",
+
+   "$1, se hai fatto l'amore per la prima volta dopo i 16 anni, bevi 2 sorsi",
+
+   "$1, se non ti piace il tuo nome peggio per te, potrai distribuire 3 sorsi. Se ti piace bevi 3 sorsi alla tua salute",
+
+   "La persona alla sinistra di $1 beve 5 sorsi",
+
+   "La persona alla destra di $1 beve 5 sorsi",
+
+   "La persona difronte a $1 beve 4 sorsi",
+
+   "Bevi 4 sorsi se hai già preso una rotonda al contrario",
+
+   "L'ultima persona ad aver succhiato un pisello distribuisce 3 sorsi",
+
+   "Distribuisci 3 sorsi se la tua macchina ha il regolatore di velocità",
+
+   "Bevi 2 sorsi se hai già provato ad eludere un posto di blocco",
+
+   "Bevi 3 sorsi se pensi di essere più intelligente della persona alla tua destra",
+
+   "$1, se pensi di essere più bello-a di $2 bevi 5 sorsi",
+
+   "Quelli che hanno già visto un episodio completo di Un posto al sole, bevono 2 sorsi",
+
+   "Quelli che hanno già visto un episodio completo di Beautiful, bevono 2 sorsi",
+
+   "I pianisti che sanno suonare con tutte e 10 le dita distribuiscono 5 sorsi",
+
+   "Speciale ragazze, bevi 2 sorsi se hai più di 10 paia di scarpe",
+
+   "Le ragazze scelgono un giocatore che beve 3 sorsi",
+
+   "I ragazzi scelgono una giocatrice che beve 3 sorsi",
+
+   "Bevi 5 sorsi se non esci da più di una settimana",
+
+   "$1 beve 4 sorsi senza appoggiare le labbra sul bicchiere",
+
+   "Bevi 4 sorsi se sei arrivato a prendere un indumento sporco, l'hai annusato e poi l'hai indossato durante la giornata",
+
+   "Eleggete la persona con il carattere peggiore che berrà 3 sorsi!",
+
+   "$1, bevi tante volte quante le carte di credito, le tessere sanitarie o le carte d'identità che hai perso",
+
+   "$1, mostra le foto delle persone nude che hai nel tuo telefono o bevi 4 sorsi",
+
+   "$1, se bevi 2 sorsi, $2 e $3 ne bevono il doppio",
+
+   "$1, affonda il tuo dito nei fianchi di quello o quella che berrà 3 sorsi",
+
+   "$1, lascia che $2 ti pizzichi il naso mentre bevi 3 sorsi",
+
+   "Bevi 5 sorsi se per 500 euro faresti l'amore con il tuo - la tua vicino-a di destra",
+
+   "Bevi 5 sorsi se per 500 euro faresti l'amore con il tuo - la tua vicino-a di sinistra",
+
+   "$1, bevi tante volte quanti mobili ci sono nella stanza",
+
+   "$1 fai 5 flessioni o bevi 2 sorsi",
+
+   "Bevi 2 sorsi se hai già guardato dei porno con qualcun altro",
+
+   "$1 lecca l'orecchio di $2, 4 sorsi in caso di rifiuto",
+
+   "Bevi 5 sorsi se hai già messo il tuo pene in una vagina di plastica oppure un sex toy nella tua vagina",
+
+   "$1, distribuisci tanti sorsi quanti sono gli stronzi seduti intorno a questo tavolo",
+
+   "$1, fai 5 giri su te stesso e bevi ogni volta che ti ritrovi difronte agli idioti che ti stanno osservando",
+
+   "$1 si mette a quattro zampe e si prende una sculacciata sulle chiappe da ogni giocatore",
+
+   "$1, conta ad alta voce fino a 50 o bevi 3 sorsi",
+
+   "Bevi 5 sorsi se hai in giro una foto del tuo - della tua fidanzato-a nudo-a",
+
+   "Se ti sei già fatto sgamare con dei porno nella cronologia bevi 4 sorsi",
+
+   "$1, fai una domanda a chi vuoi, il giocatore è obbligato a rispondere o a finire il suo bicchiere",
+
+   "Concorso di stupidità! $1 e $2 stringetevi la mano il più forte possibile. Il primo che abbandona beve 4 sorsi",
+
+   "Concorso di stupidità! $1 e $2 devono tenersi la lingua con due dita. Il primo che abbandona beve 4 sorsi",
+
+   "Quelli che si sono già masturbati pensando ad un amico-a bevono 5 sorsi",
+
+   "$1 e $2 fanno una gara di flessioni, chi perde o rinuncia beve 5 sorsi",
+
+   "$1 e $2 fanno una gara di squat, chi perde o rinuncia beve 5 sorsi",
+
+   "I secchioni che hanno già ripetuto un anno a scuola bevono 2 sorsi",
+
+   "$1 gratta la schiena a $2 o beve 5 sorsi",
+
+   "$1, fatti scrivere sul braccio o bevi 3 sorsi",
+
+   "$1, fatti il monociglio con un pennarello e potrai distribuire 5 sorsi",
+
+   "Ognuno beve tante volte quante le vocali presenti nel suo nome",
+
+   "$1, se non hai mai abbordato qualcuno senza essere ubriaco bevi 4 sorsi, altrimenti distibuiscili",
+
+   "Distribuisci 4 sorsi se hai già vissuto all'estero",
+
+   "Bevi 2 sorsi se hai già fatto l'amore nel letto dei tuoi",
+
+   "Bevi 2 sorsi se hai già inventato una scusa per non andare a lavoro",
+
+   "Chi ha meno amici su Facebook beve 2 sorsi",
+
+   "Bevi 2 sorsi se sei già tornato-a con un-una ex",
+
+   "Bevi 2 sorsi se sei un fan dei cappelli",
+
+   "Quelli che hanno già cambiato colore di capelli bevono 3 sorsi",
+
+   "$1, se prendi il caffè senza zucchero distribuisci 2 sorsi. Bevili se metti lo zucchero o se non ami il caffè",
+
+   "Bevi 4 sorsi se hai già visto uno dei giocatori nudo",
+
+   "La prima persona a trovare un oggetto triangolare nella stanza distribuisce 4 sorsi!",
+
+   "La prima persona che trova un oggetto bianco distribuisce 2 sorsi",
+
+   "Bevi 5 sorsi se hai già tenuto in alto il tuo cellulare come uno scemo quando non hai più campo",
+
+   "Le persone che non hanno mai giocato a Picolo prima di stasera bevono 5 sorsi",
+
+   "Ecco gli scemi! Se hai già provato a inserire il gancio dell'altifurto di un carrello della spesa dentro all'antifurto stesso bevi 5 sorsi",
+
+   "$1, bevi tanti sorsi quanti gli insetti che hai aspirato con l'aspirapolvere",
+
+   "$1, bevi tanti sorsi quanti sono i giocatori",
+
+   "Distribuisci 2 sorsi se hai già detto di no ad un figo o ad una figa",
+
+   "Chi ha il naso più grande beve 3 sorsi",
+
+   "I tre giocatori più glabri bevono 2 sorsi!",
+
+   "Quelli che sono usciti con qualcuno grazie a un bigliettino inviato durante la lezione bevono 3 sorsi",
+
+   "Bevi 1 sorso se hai preso la patente al primo colpo, 2 se non ci sei riuscito-a, 3 se ancora non ce l'hai",
+
+   "Bevi 3 sorsi se sei già stato-a cacciato-a da un casinò, da un bar o da una discoteca. +1 se succede spesso",
+
+   "$1, se hai i capelli ricci distribuisci 3 sorsi, altrimenti bevili",
+
+   "$1, se hai i capelli lisci distribuisci 3 sorsi, altrimenti bevili",
+
+   "$1, se ci fai vedere una tetta $2 beve 6 sorsi, altrimenti tu ne bevi 3",
+
+   "$1, devi dire l'alfabeto al contrario senza sbagliarti in meno di 20 secondi, o bevi 4 sorsi",
+
+   "$1, se hai già rotto un preservativo distribuisci 2 sorsi, altrimenti bevili",
+
+   "Quelle e quelli che hanno già detto \"meglio se restiamo amici\" bevete 3 sorsi,  chi se lo è sentito dire li distribuisce",
+
+   "Bevi 2 sorsi se hai già finto di essere ammalato-a per non andare a scuola o lavoro",
+
+   "Gli atei bevono 2 sorsi",
+
+   "I credenti bevono 2 sorsi",
+
+   "Bevi 3 sorsi se ti sei già masturbato negli ultimi 3 giorni",
+
+   "$1, lecca l'avambraccio del-la tuo-a vicino-a a sinistra o bevi 2 sorsi",
+
+   "la persona impegnata da più tempo distribuisce 5 sorsi",
+
+   "La persona single da più tempo distribuisce 5 sorsi",
+
+   "Bevi 3 sorsi se hai fatto l'amore nelle scorse 48 ore",
+
+   "$1, scegli il tuo schiavo a questo tavolo.\nSe vince la sfida che gli-le proponi, potrai distribuire 4 sorsi, altrimenti sarà lui-lei a berli",
+
+   "$1, se hai già fatto un cubo di Rubik distribuisci 3 sorsi, altrimenti bevili",
+
+   "Quelli che hanno già combattuto su un tatami bevono 2 sorsi!",
+
+   "I rubacuori che hanno già lasciato più di 3 persone distribuiscono 4 sorsi",
+
+   "Se il tuo compleanno cade in un giorno dispari, bevi 4 sorsi",
+
+   "I bastardi che hanno già rubato dei soldi a qualche familiare bevono 2 sorsi",
+
+   "$1, bevi 2 sorsi se hai già risposto male a un professore, altrimenti distribuiscili",
+
+   "Quelli che non hanno utilizzato la biancheria intima per 3 giorni di fila bevono 2 sorsi",
+
+   "Bevi 3 sorsi se ti piace il sapore dell'organo sessuale del-la tuo-a partner",
+
+   "$1, se i tuoi piedi sono più piccoli di quelli di $2 bevi 2 sorsi, altrimenti distribuiscili",
+
+   "Chi ha il naso più piccolo beve 3 sorsi",
+
+   "L'ultimo giocatore ad aver fatto l'amore distribuisce 2 sorsi",
+
+   "Ognuno beve tante volte quante sono le persone scopabili a giocare",
+
+   "Fino a che $1 non rivedrà il suo nome scritto su questo schermo, beve ad ogni cambio schermo",
+
+   "Basta telefoni! La prima persona a consultare il proprio smartphone beve 10 sorsi",
+
+   "Bevi 3 sorsi se ti sei già mangiato-a un insetto",
+
+   "$1, se hai già fatto cadere il telefono nel cesso distribuisci 3 sorsi. Altrimenti bevili",
+
+   "Quelli che studiano / lavorano nell'ambito medico bevono 2 sorsi",
+
+   "Quelli che studiano / lavorano nell'ambito dell'economia bevono 2 sorsi",
+
+   "Quelli che studiano / lavorano in un ramo qualsiasi dell'ingegneria bevono 2 sorsi",
+
+   "L'ultima persona ad aver pubblicato uno stato su Facebook beve 2 sorsi",
+
+   "Quelli che continuano a bere bevande poco alcoliche (vino, birra, ecc) bevono 3 sorsi",
+
+   "Bevi 5 sorsi se hai già mentito sulle dimensioni del tuo organo sessuale o su quello del tuo partner",
+
+   "Quelli che si tolgono o si accorciano i peli delle ascelle bevono 2 sorsi",
+
+   "$1, indica il titolo dell'ultimo film che hai visto al cinema. Quelli che non l'hanno visto bevono 4 sorsi",
+
+   "I mancini e le mancine bevono 3 sorsi",
+
+   "I-le destrimani bevono 3 sorsi",
+
+   "Duello fra $1 e $2, chi ha le mani più grandi beve 3 sorsi",
+
+   "i tre più giovani scelgono un giocatore che butterà giù 5 sorsi",
+
+   "Tutte le persone più giovani di $1 bevono 5 sorsi",
+
+   "Tutte le persone più vecchie di $1 bevono 5 sorsi",
+
+   "Quelli che hanno già chattato su MSN bevono 4 sorsi!",
+
+   "La persona che aveva meno anni quando si è presa una sbronza distribuisce 2 sorsi",
+
+   "I barbuti (facce da culo) bevono 4 sorsi",
+
+   "Gli sbarbati (facce da bebè) bevono 4 sorsi",
+
+   "$1, fatti pizzicare il sedere da $2 o bevi 4 sorsi!",
+
+   "$1, fatti sculacciare da $2 o bevi 4 sorsi!",
+
+   "Bevi 2 sorsi se hai fra i tuoi amici un ex o una ex",
+
+   "Bevi 4 sorsi se hai già svuotato la saliera nel tuo piatto senza farlo di proposito",
+
+   "Bevi 2 sorsi se hai già chiesto l'autorizzazione al-alla tuo-a partner per uscire per una serata",
+
+   "Quelli che si sono già fatti hackerare il proprio profilo Facebook bevono 4 sorsi!",
+
+   "$1, bevi un numero di sorsi pari al numero di paesi che hai visitato!",
+
+   "$1, puoi distribuire tanti sorsi quanti sono i tuoi zii",
+
+   "$1, puoi distribuire tanti sorsi quante sono le tue zie",
+
+   "$1 distribuisce un numero di sorsi pari al numero di fratelli e sorelle che ha!",
+
+   "I giocatori che non riescono a toccare per terra piegandosi con le gambe tese bevono 4 sorsi",
+
+   "Bevi 2 sorsi se riesci a succhiarti l'alluce",
+
+   "Distribuisci 5 sorsi se hai un Nintendo Switch",
+
+   "$1, se i tuoi genitori mettono delle decorazioni esterne per Natale bevi 4 sorsi, altrimenti distribuiscili",
+
+   "$1 sceglie la prossima canzone e quelle o quelli a cui non piace bevono 4 sorsi",
+   
+   "$1 sceglie la prossima canzone e non si discute",
+
+   "$1, facci sentire l'inizio dell'ultima musica ascoltata con il tuo telefono.\n Se alla maggioranza dei giocatori non piace, bevi 3 sorsi",
+
+   "Bevi 3 sorsi se hai già lavorato in nero",
+
+   "Quelli che vengono dal nord bevono 2 sorsi",
+
+   "Quelli che vengono dal sud bevono 2 sorsi",
+
+   "Bevi 2 sorsi se non vai dal dentista da più di un anno",
+
+   "Distribuisci 3 sorsi se stai con qualcuno da più di un anno",
+
+   "Il primo giocatore a dire un proverbio distribuisce 2 sorsi",
+
+   "Quelli che non volevano giocare a Picolo e hanno brontolato bevono 3 sorsi. Vergogna",
+
+   "Quelli che oggi hanno ballato bevono 3 sorsi",
+
+   "Bevi 3 sorsi se hai già ballato davanti allo specchio mentre eri solo-a a casa",
+
+   "$1, facci tre passi di danza o bevi 2 sorsi",
+
+   "$1, fai una spaccata o bevi 3 sorsi",
+
+   "Bevi 3 sorsi se hai già fatto l'amore in acqua",
+
+   "$1, bevi il numero delle tue conquiste in sorsi",
+
+   "$1, distribuisci 4 sorsi alla persona che secondo te ha il corpo più bello",
+
+   "Bevi 2 sorsi se hai già chiesto a qualcuno di indossare il tuo intimo",
+
+   "Bevi 2 sorsi se ami segretamente una persona del tuo gruppo",
+
+   "$1, la prossima persona che guardi negli occhi beve 3 sorsi",
+
+   "$1 fa il giro dei giocatori e dà una pacca sulla spalla a quelli e quelle che dovranno bere 2 sorsi!",
+
+   "$1, fai vedere le ultime 5 foto del tuo cellulare o bevi 4 sorsi",
+
+   "$1, distrubuisci 3 sorsi ad un giocatore meno muscoloso di te se c'è, altrimenti bevili",
+
+   "$1, distrubuisci 3 sorsi ad un giocatore più muscoloso di te se c'è, altrimenti bevili",
+
+   "$1, distrubuisci 3 sorsi ad un giocatore meno ubriaco di te se c'è, altrimenti bevili",
+
+   "$1, distrubuisci 3 sorsi ad un giocatore più ubriaco di te se c'è, altrimenti bevili",
+
+   "Quelli che hanno già letto di nascosto i messsaggi del proprio partner bevono 2 sorsi",
+
+   "$1, se hai già rubato in un negozio bevi 3 sorsi, altrimenti distribuiscili",
+
+   "Se hai già chiamato il-la tuo-a partner con il nome del-della tuo-a ex distribuisci 5 sorsi",
+
+   "$1, distribuisci 4 sorsi ad un giocatore più basso di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 4 sorsi ad un giocatore più alto di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 2 sorsi ad un giocatore più intelligente di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 2 sorsi ad un giocatore meno intelligente di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 2 sorsi ad un giocatore più vecchio di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 2 sorsi ad un giocatore più giovane di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 3 sorsi ad un giocatore più abbronzato di te se c'è, altrimenti bevili",
+
+   "$1, distribuisci 3 sorsi ad un giocatore meno abbronzato di te se c'è, altrimenti bevili",
+
+   "Tutte le persone più abbronzate di $1 bevono 3 sorsi",
+
+   "$1, se tiri fuori un solo titolo di canzone di Avril Lavigne distribuisci 2 sorsi, altrimenti bevili",
+
+   "$1, se tiri fuori 3 titoli di canzoni di Tiziano Ferro distribuisci 4 sorsi, altrimenti bevili",
+
+   "$1, canta un ritornello di Jovanotti o bevi 2 sorsi",
+
+   "Bevi 3 sorsi se hai già falsificato una firma",
+
+   "I giocatori che vivono soli in un appartamento o in un monolocale bevono 2 sorsi",
+
+   "Quelli che hanno già scoreggiato sul loro partner distribuiscono 2 sorsi, 3 in più se hanno riso",
+
+   "$1, se riesci ad offrire - senza obbligarlo con la forza - un cubetto di ghiaccio ad un giocatore prima della fine del gioco, chi lo riceve dovrà finire il suo bicchiere",
+
+   "Quelle e quelli che sono nati-e a meno di 50 Km da qua distribuiscono 2 sorsi!",
+
+   "$1 e $2 devono pareggiare i loro bicchieri.\nIl giocatore con il bicchiere più pieno beve fino ad arrivare alla stessa quantità dell'altro",
+
+   "$1, se a partire da adesso resti 5 minuti senza parlare potrai scegliere chi finisce il proprio bicchiere",
+
+   "$1, se ti piacciono i cavoletti di Bruxelles distribuisci 3 sorsi, altrimenti bevili",
+
+   "$1, se sei impegnato-a e sei venuto-a senza il-la tuo-a partner, distribuisci 4 sorsi, altrimenti bevili",
+
+   "$1, se hai già lasciato più di 3 euro di mancia ad un cameriere distribuisci 3 sorsi, altrimenti bevili",
+
+   "$1, se hai già cagato per strada o al lavoro bevi 2 sorsi, altrimenti distribuiscili",
+
+   "$1, se l'ultima volta che hai pisciato lo hai fatto al bagno, bevi 2 sorsi, altrimenti distribuiscili",
+
+   "$1 e $2 si guardano dritto negli occhi. Il-la primo-a a sbattere le palpebre beve 3 sorsi",
+
+   "L'ultimo giocatore ad essersi fatto controllare dalla polizia beve 3 sorsi",
+
+   "Bevi 4 sorsi se dici \"ti amo\" al tuo partner ad ogni telefonata (o quasi)",
+
+   "Quelli che stanno fumando bevono 2 sorsi",
+
+   "$1, distribuisci tanti sorsi quanti sono i single a questo tavolo",
+
+   "$1 e $2 si scambiano il posto portando con se il loro bicchiere",
+
+   "$1, distribuisci tanti sorsi quanti sono le persone impegnate a questo tavolo",
+
+   "$1, bevi il numero di sorsi che vuoi. $2 dovrà berne il doppio",
+
+   "Bevi 3 sorsi se hai già sentito il-la tuo-a partner scoreggiare di notte, durante il sonno",
+
+   "Quelli che fumano o hanno fumato nel corso della loro vita bevono 3 sorsi",
+
+   "Quelli che hanno già provato a scrivere il loro nome con la pipì bevono 2 sorsi",
+
+   "$1, rispondi a una domanda tabù scelta da $2, oppure fai la figura del pollo e finisci il tuo bicchiere",
+
+   "Quelli che hanno un pacchetto di sigarette bevono il numero di sigarette che hanno in sorsi (massimo 8)",
+
+   "$1, se fumi, butta nella spazzatura una sigaretta intera o bevi 5 sorsi. Puoi distribuire 2 sorsi se non fumi",
+
+   "A partire da adesso e fino alla fine del gioco è vietato fumare sigarette! Gli anarchici bevono uno shottino",
+
+   "$1, proponi 3 nomi. Se uno di questi è il secondo nome di uno dei giocatori, distribuisci 2 sorsi, altrimenti bevili",
+
+   "$1, se conosci tutti i nomi di $2, questo giocatore berrà 3 sorsi. Altrimenti sarai tu a farlo",
+
+   "$1, distribuisci 4 sorsi se hai cambiato le lenzuola da meno di un mese, altrimenti bevili",
+
+   "$1, definisci un difetto per ciascuno dei giocatori e bevi un sorso per ognuno!",
+
+   "$1, definisci una qualità per ciascuno dei giocatori e bevi un sorso per ognuna!",
+
+   "I duri che studiano/lavorano nell'ambito di un mestiere manuale bevono 3 sorsi!",
+
+   "Costruiamo legami, $1 e $2 si fanno un batti pugno che ricorderanno a vita",
+
+   "Vendetta per i calvi e le ragazze con i capelli corti, distribuite uno shottino!",
+
+   "Onore a $1 che distribuisce 3 sorsi",
+
+   "La persona che aveva meno anni quando ha avuto il primo cellulare beve 2 sorsi",
+
+   "Bevi 4 sorsi se non hai mai visto South Park",
+
+   "$1, dà 2 sorsi a $2 o 3 sorsi a $3",
+
+   "$1, se hai già guidato all'estero distribuisci 4 sorsi, altrimenti bevili",
+
+   "$1 decide: o $2 distribuisce 3 sorsi, oppure $3 distribuisci 3 sorsi",
+
+   "$1, decidi se far bere 3 sorsi a $2 o a $3 (tu tieni il bicchiere)",
+
+   "$1 definisce il numero di sorsi che vuole che beva $2",
+
+   "Quelli che dormiranno in un letto singolo stasera bevono 2 sorsi",
+
+   "Quelli che dormiranno in un letto matrimoniale stasera bevono 2 sorsi",
+
+   "Quelli che hanno già fatto la cacca in un cesso alla turca bevono 4 sorsi",
+
+   "Bevi 2 sorsi se ti sei già fatto rubare una bicicletta",
+
+   "$1 sorride per 1 minuto ininterrottamente, 5 sorsi ad ogni sbaglio",
+
+   "Quelli che hanno già rubato una bicicletta bevono 4 sorsi, pezzi di merda",
+
+   "La persona alla destra di $1 beve 3 sorsi",
+
+   "Il giocatore a destra di quello o quella che ha appena letto questa regola beve 4 sorsi",
+
+   "Il giocatore a sinistra di quello o quella che ha appena letto questa regola beve 4 sorsi",
+
+   "Il giocatore a destra di quello o quella che ha appena letto questa regola distribuisce 3 sorsi",
+
+   "Il giocatore a sinistra di quello o quella che ha appena letto questa regola distribuisce 3 sorsi",
+
+   "Il giocatore  che ha appena letto questa regola beve 4 sorsi",
+
+   "La persona alla sinistra di $1 beve 3 sorsi",
+
+   "La persona che ha fatto meno strada per venire fin qui beve 4 sorsi",
+
+   "La persona che ha fatto più strada per venire fin qui beve 4 sorsi",
+
+   "Gli incoscienti che hanno già guidato da ubriachi bevono 3 sorsi",
+
+   "I misofobi bevono 3 sorsi! Quelli che non sanno cos'è possono andare su wikipedia",
+
+   "$1, valuta quelle o quelli che sono vestiti peggio di $2. Questi berranno 3 sorsi",
+
+   "La prossima persona che sorride beve 2 sorsi",
+
+   "$1, se hai già mentito sulla tua età per rimorchiare bevi 3 sorsi, altrimenti distribuiscili",
+
+   "Distribuisci 3 sorsi se hai già fatto un incidente con la macchina",
+
+   "Distribuisci 3 sorsi se hai già fatto l'amore mentre dei tuoi amici dormivano nella stessa stanza",
+
+   "Distribuisci 3 sorsi se sei già stato-a operato-a",
+
+   "Quelli che hanno già utilizzato dei preservativi profumati bevono 3 sorsi",
+
+   "Quelli che si sono già masturbati pensando al-alla partner di un-una amico-a bevono 5 sorsi",
+
+   "$1, distribuisci 4 sorsi se ti piace fare il bagno completamente nudo-a in mare o in piscina, altrimenti bevili",
+
+   "Quelli che sono più alti di $1 possono bere 4 sorsi alla salute del nano o della nana",
+
+   "Quelli che sono più bassi di $1 possono bere 4 sorsi alla salute dello spilungone o della spilungona",
+
+   "$1 e $2 leggete il primo Whatsapp che appare quando si scrive \"scusa\" nella barra di ricerca, rifiutatevi e bevete 4 sorsi",
+
+   "$1 e $2 leggete il primo Whatsapp che appare quando si scrive \"pompino\" nella barra di ricerca, rifiutatevi e bevete 4 sorsi",
+
+   "$1 e $2 leggete il primo Whatsapp che appare quando si scrive \"manchi\" nella barra di ricerca, rifiutatevi e bevete 4 sorsi",
+
+   "$1 e $2 leggete il primo Whatsapp che appare quando si scrive \"buco\" nella barra di ricerca, rifiutatevi e bevete 4 sorsi",
+
+   "$1, distribuisci tanti sorsi quanti sono i cognomi che conosci dei giocatori presenti",
+
+   "Il prossimo giocatore a dover bere raddoppierà il suo numero di sorsi!",
+
+   "Il prossimo giocatore a dover bere triplicherà il suo numero di sorsi!",
+
+   "$1, se hai già fatto la cacca in un'area di servizio bevi 2 sorsi, altrimenti distribuiscili",
+
+   "$1, dai i sorsi che vuoi a $2",
+
+   "la persona che ha avuto il rapporto di coppia più lungo distribuisce 4 sorsi",
+
+   "Bevi 3 sorsi se hai già sentito qualcuno della tua famiglia scopare",
+
+   "Bevi 2 sorsi se hai già sverginato qualcuno",
+
+   "$1, nomina un accessorio, le persone che indossano questo accessorio bevono 2 sorsi",
+
+   "$1, distribuisci tanti sorsi quante sono le E nel tuo nome, e bevi tanti sorsi quante sono le A",
+
+   "Tutti quelli che hanno un nome che contiene la lettera A bevono 3 sorsi",
+
+   "Tutti quelli che hanno un nome che contiene la lettera E bevono 3 sorsi",
+
+   "Tutti quelli che hanno un nome che contiene la lettera I bevono 3 sorsi",
+
+   "Tutti quelli che hanno un nome che contiene la lettera O bevono 3 sorsi",
+
+   "Tutti quelli che hanno un nome che contiene la lettera U bevono 3 sorsi",
+
+   "Quelle e quelli che hanno dei peli fra le sopracciglia bevono 3 sorsi",
+
+   "Se hai già utilizzato una penna da 4 colori con tutti i 4 colori abbassati contemporaneamente bevi 3 sorsi",
+
+   "Quelli che hanno un'età di numero pari bevono 3 sorsi!",
+
+   "Quelli che hanno un'età di numero dispari bevono 3 sorsi!",
+
+   "$1 se la tua età è un numero pari bevi 2 sorsi, 4 se è dispari",
+
+   "Chi ha meno di 21 anni beve 5 sorsi",
+
+   "Chi ha più di 25 anni beve 3 sorsi",
+
+   "$1, trova un rossetto, mettilo sulle labbra trasbordando, opure bevi",
+
+   "I calciatori bevono 2 sorsi!",
+
+   "I giocatori di pallamano bevono 4 sorsi!",
+
+   "I giocatori di basket bevono 3 sorsi!",
+
+   "Le persone tatuate o con piercing bevono 3 sorsi",
+
+   "$1 racconta una barzelletta o bevi 4 sorsi",
+
+   "$1, se hai già fatto a botte con qualcuno bevi 2 sorsi",
+
+   "Bevi 2 sorsi se hai già \"preso\" dei soldi al-alla tuo-a partner senza dirglielo",
+
+   "$1, se hai già provocato una rissa bevi 3 sorsi",
+
+   "Distribuisci 5 sorsi se hai già scoreggiato baciando qualcuno",
+
+   "$1, se conosci un pò $2 vai a leccargli-le la guancia o bevi 3 sorsi",
+
+   "$1, se conosci un pò $2 dagli-dalle un bacio o bevi 2 sorsi",
+
+   "Morte ai nerd! Bevi 5 sorsi se hai già giocato ad un videogioco per più di 4 ore di fila",
+
+   "I ragazzi bevono tante volte quante sono le belle ragazze a giocare",
+
+   "Le ragazze bevono tante volte quanti sono i bei ragazzi a giocare",
+
+   "$1, distribuisci tanti sorsi quanti sono gli indumenti rossi che indossi. Bevi 3 sorsi se non ne hai",
+
+   "$1, distribuisci tanti sorsi quanti sono gli indumenti neri che indossi",
+
+   "$1, chiudi gli occhi e indica il colore degli occhi di $2 o bevi 3 sorsi",
+
+   "$1, chiudi gli occhi e indica il colore delle scarpe di $2 o bevi 2 sorsi",
+
+   "$1, prevedi di andare in discoteca dopo?\nSii onesto-a, se si distribuisci 4 sorsi a quelli che ti accompagneranno, altrimenti bevili",
+
+   "$1 beve 3 sorsi",
+
+   "Distribuisci 3 sorsi se le tue calze sono bianche",
+
+   "$1, distribuisci tanti sorsi quanti sono gli indumenti bianchi che indossi",
+
+   "Bevi 4 sorsi se hai un partito politico preferito",
+
+   "$1 distribuisci 2 sorsi a qualcuno che è già andato al cesso dopo l'inizio della serata",
+
+   "$1, dai 5 sorsi al giocatore che conosci di più",
+
+   "$1, dai 5 sorsi al giocatore che conosci di meno",
+
+   "Guerra dei capelli! Chi ha i capelli castani fa bere un sorso agli altri",
+
+   "Guerra dei capelli! Chi ha i capelli biondi fa bere un sorso agli altri",
+
+   "$1, se hai fatto uso di droghe pesanti hai fatto male, bevi 2 sorsi. Altrimenti distribuiscili",
+
+   "I biondi e le bionde bevono 5 sorsi",
+
+   "I castani e le castane bevono 5 sorsi",
+
+   "I rossi e le rosse bevono 3 sorsi",
+
+   "Quello che ha meno capelli beve 2 sorsi",
+
+   "$1, fai testa o croce. Scegli prima quale lato ti farà bere 4 sorsi e quale te li farà distribuire",
+
+   "Bevi 3 sorsi se è già stato necessario ripetere una regola di Picolo perchè non stavi ascoltando",
+
+   "Quello-a che ha i capelli più lunghi beve 2 sorsi",
+
+   "$1, se hai bevuto più di 4 bicchieri puoi distribuire 2 sorsi",
+
+   "Bevi 5 sorsi se hai già ficcato la lingua in bocca ad una persona dello stesso sesso",
+
+   "Il primo giocatore che tocca i piedi di $1 distribuisce 3 sorsi",
+
+   "Bevi 3 sorsi se sei già stato a letto con qualcuno per le ragioni sbagliate",
+
+   "Vendetta per i rossi e le rosse, distribuite uno shottino!",
+
+   "Vendetta per i castani e le castane, distribuite uno shottino!",
+
+   "Vendetta per i biondi e le bionde, distribuite uno shottino!",
+
+   "Bevi 4 sorsi se hai già bevuto alcolici da solo-a",
+
+   "Quelli che hanno un inizio di calvizie bevono 2 sorsi",
+
+   "Boomerang! $1 potrà passare i suoi sorsi ad uno qualsiasi dei giocatori al prossimo giro",
+
+   "$1, rivela il segno zodiacale di $2 o bevi 4 sorsi",
+
+   "L'ultimo giocatore che si alza beve 5 sorsi",
+
+   "L'ultimo giocatore che ha cagato fra $1 e $2 distribuisce 5 sorsi",
+
+   "$1, rivela l'età di $1 o bevi 2 sorsi",
+
+   "Quelli che hanno già rimorchiato il fratello o la sorella di un-una amico-a bevono 4 sorsi",
+
+   "Quelli che hanno già rimorchiato in ufficio distribuiscono 2 sorsi",
+
+   "bevi 2 sorsi se hai già visto uno dei giocatori nudo",
+
+   "Quelli che non riescono a far entrare l'intera circonferenza del bicchiere nelle loro bocche bevono 4 sorsi",
+
+   "$1, se hai degli amici con cui parli regolarmente che non parlano italiano, distribuisci 2 sorsi. Altrimenti bevili",
+
+   "Quelli che hanno il telefono sul tavolo bevono 2 sorsi",
+
+   "La persona affascinante proprietaria del telefono con il quale state giocando distribuisce 4 sorsi",
+
+   "$1 fa 6 squat completi e beve un sorso fra uno e l'altro!",
+
+   "$1, potrai distribuire tanti sorsi quante le qualità che riesci a trovare a $2",
+
+   "$1, potrai distribuire tanti sorsi quante i difetti che riesci a trovare a $2",
+
+   "Obbligo o verità, $1 sceglie un obbligo o una verità per $2",
+
+   "$1, fai un obbligo scelto da $2, bevi 2 sorsi se ti rifiuti",
+
+   "$1 dai un obbligo da fare a $2, se lui-lei si rifiuta beve 3 sorsi, altrimenti distribuiscili",
+
+   "Bevi 4 sorsi se ti sei già svegliato-a in un letto di qualcuno-a chiedendoti come ci sei arrivato-a",
+
+   "Tempo morto: se l'orario è di numero pari bevete tutti 3 sorsi, altrimenti $1 distribuisci 2 sorsi",
+
+   "Bevi 3 sorsi se le tue scarpe hanno i lacci",
+
+   "Foto ricordo! $1 e $2 si fanno un selfie facendo gli occhi storti",
+
+   "$1 e $2 bevete assieme 2 sorsi",
+
+   "Bevi 3 sorsi se sei già arrivato-a a vedere più di 3 episodi di serie tv uno dopo l'altro",
+
+   "Quelli che non sono attivi nè su Instagram nè su Twitter possono distribuire 2 sorsi",
+
+   "Bevi 3 sorsi se hai già avuto più di un-a trobamico-a alla volta",
+
+   "Bevi 4 sorsi se recentemente hai fatto sogni che non potrai mai raccontare a nessuno...",
+
+   "Distribuisci 2 sorsi se ti mangi le unghie",
+
+   "Bevi 4 sorsi se hai già mentito ad una persona presente nella stanza per non andare ad una serata organizzata da lui-lei",
+
+   "Bevi 2 sorsi se ti sei già rifiutato-a di uscire con i tuoi amici in questo ultimo mese per restare con il-la tuo-a partner",
+
+   "I tre giocatori più tirchi bevono 2 sorsi!",
+
+   "Gli aracnofobici bevono 3 sorsi",
+
+   "bevi 4 sorsi se sei già tornato-a con un-una ex",
+
+   "La persona più vecchia e quella più giovane si sfidano alla morra cinese per 4 sorsi",
+
+   "$1, hai già avuto una storia di una notte? Se si, distribuisci 4 sorsi, altrimenti bevili",
+
+   "Bevi 3 sorsi se sei già uscito con qualcuno per meno di un giorno",
+
+   "Bevi 3 sorsi se di solito dormi completamente nudo-a",
+
+   "Bevi 4 sorsi se hai il rituale caffè - sigaretta - cacca almeno una mattina su due",
+
+   "Bevi 4 sorsi se hai il rituale di bagnare lo spazzolino prima e dopo aver messo il dentifricio",
+
+   "$1, se hai già avuto un vuoto mentale a causa dell'alcol bevi 3 sorsi, altrimenti distribuiscili",
+
+   "$1, se ti sei già fatto-a una pennichella al lavoro / in classe bevi 2 sorsi, altrimenti distribuiscili",
+
+   "$1, scegli tra dare 2 sorsi all'ultimo arrivato-a o un sorso a tutti",
+
+   "I ragazzi bevono 3 sorsi",
+
+   "Le ragazze bevono 3 sorsi",
+
+   "Bevi 4 sorsi se hai già preso un'insalata in un fast-food",
+
+   "$1 sfida $2 a morra cinese! Il giocatore che perde beve 3 sorsi",
+
+   "$1 deve bere 2 sorsi mentre $2 gli-le sussurra qualcosa all'orecchio",
+
+   "Quelli che riescono a toccarsi il naso con la lingua distribuiscono 2 sorsi",
+
+   "Tutte le persone più ubriache di $1 bevono 2 sorsi",
+
+   "Tutte le persone meno ubriache di $1 bevono 2 sorsi",
+
+   "Chi ha il bicchiere più pieno beve 2 sorsi",
+
+   "Trinchiamo insieme",
+
+   "$1, se bevi con una cannuccia distribuisci 3 sorsi, altrimenti prendili tu",
+
+   "Quelli che sono malati bevono 2 sorsi!",
+
+   "Bevi 3 sorsi se hai già rubato qualcosa a uno dei giocatori",
+
+   "$1, distribuisci tanti sorsi quanti sono i pacchetti di stuzzichini aperti. Bevi 3 sorsi se non ce ne sono",
+
+   "Gioco dell'acchiappino fino al termine del gioco!\nL'acchiappino tocca un giocatore che beve un sorso e che diventa acchiappino a sua volta, così di seguito, è $1 l'acchiappino",
+
+   "Distribuisci 2 sorsi se non hai mai visto nessuno dei film della saga Harry Potter",
+
+   "Distribuisci 4 sorsi se non hai mai visto nessuno dei film della saga Signore degli Anelli",
+
+   "Distribuisci 4 sorsi se non hai mai visto nessuno dei film della saga Pirati dei Caraibi",
+
+   "$1, chiudi gli occhi. Se riesci a dire quello che ognuno ha dentro al bicchiere, distribuisci 3 sorsi, altrimenti bevili",
+
+   "Bevi 2 sorsi se i tuoi occhi sono azzurri o marroni",
+
+   "bevi 2 sorsi se i tuoi occhi non sono nè azzurri nè marroni",
+
+   "L'ultima persona ad alzare i piedi da terra beve 4 sorsi",
+
+   "Bevi 2 sorsi se sei una ragazza e hai già rubato dei boxer o una t-shirt al tuo ragazzo per farne un pigiama",
+
+   "$1 indica il numero di abitanti del Tagikistan (1.000.000 circa) o beve 5 sorsi",
+
+   "$1, hai 3 secondi per indicare il numero esatto delle persone presenti nella stanza. Se sbagli berrai 2 sorsi",
+
+   "Bevi 3 sorsi se hai già ricattato il tuo ragazzo o la tua ragazza",
+
+   "$1, indica tre ex di $2 o bevi 3 sorsi",
+
+   "$1, indica il mese di nascita di $2 o bevi 2 sorsi",
+
+   "$1, indica il colore preferito di $2 o bevi 4 sorsi",
+
+   "$1, indica la bevanda preferita di $2 o bevi 4 sorsi",
+
+   "$1, indica il cibo preferito di $2 o bevi 4 sorsi",
+
+   "Il primo giocatore ad essersi servito un bicchiere oggi distribuisce 2 sorsi",
+
+   "I ripetenti bevono 2 sorsi",
+
+   "Quando l'ora sarà costituita da un multiplo di 10 (20.00,20.10,20.20) il primo giocatore a gridare \"merda ho dimenticato il mio gatto nello spazio\" distribuirà 10 sorsi",
+
+   "$1 fa una smorfia facendosi fare una foto da $2, o beve 4 sorsi",
+
+   "$1 beve 3 sorsi e ne distribuisce 4",
+
+   "Bevi 4 sorsi calzi fra il 40 e il 44",
+
+   "Fino alla fine del gioco, il primo giocatore a dire \"Si\" beve uno shottino",
+
+   "Fino alla fine del gioco, il primo giocatore a dire \"No\" beve uno shottino",
+
+   "Distribuisci 4 sorsi se calzi meno del 38",
+
+   "Bevi 5 sorsi se, in un ristorante, qualcuno al tuo tavolo ti ha già detto che il cibo faceva schifo.\n +1 se sei stato tu",
+
+   "Bevi 5 sorsi se hai già fatto l'amore con uno-a sconosciuto-a senza protezione",
+
+   "Bevi 2 sorsi se hai già dato a qualcuno del brutto faccia a faccia",
+
+   "$1, guidi una Peugeot? Se sì, puoi distribuire 4 sorsi, altrimenti bevili",
+
+   "$1, guidi una Fiat? Se sì, puoi distribuire 4 sorsi, altrimenti bevili",
+
+   "$1, guidi una Ford? Se sì, puoi distribuire 4 sorsi, altrimenti bevili",
+
+   "$1, guidi una Renault? Se sì, puoi distribuire 4 sorsi, altrimenti bevili",
+
+   "Bevi 5 sorsi se le tue scarpe hanno i lacci",
+
+   "$1 e $2 si danno un abbraccio, e tutti e due bevono un sorso",
+
+   "Momento culturale, l'ultimo giocatore ad aver letto un libro distribuisce 3 sorsi",
+
+   "Bevi 4 sorsi se hai già assistito a uno strip-tease",
+
+   "Bevi 2 sorsi se hai già scoreggiato rumorosamente in pubblico, 2 in più se non l'hai fatto apposta",
+
+   "Bevi tanti sorsi quante le volte che ti sei fatto lasciare",
+
+   "$1, se ti sei messo-a del deodorante distribuisci 3 sorsi.\nAltrimenti bevine 2, avrai più rispetto verso i tuoi amici la prossima volta",
+
+   "Speciale viaggiatori, bevi 2 sorsi se ti sei già scopato-a una persona straniera",
+
+   "Ognuno beve il numero di sorsi pari al numero dei suoi anni di studio dopo il diploma!",
+
+   "Bevi 2 sorsi se hai un Windows Phone",
+
+   "Bevi 2 sorsi se hai un Android Phone",
+
+   "Bevi 2 sorsi se hai un IPhone",
+
+   "$1, scegli un oggetto nella stanza. Il primo giocatore a toccare l'oggetto distribuirà 2 sorsi",
+
+   "$1, corri per la stanza come una gallina moribonda o bevi 2 sorsi",
+
+   "$1, corri per la stanza come un maiale che si è fatto sgozzare o bevi 2 sorsi",
+
+   "Quella o quello che ha rimorchiato il tipo più schifoso beve 5 sorsi",
+
+   "$1, se ti sei già curato-a le dita dei piedi bevi 2 sorsi",
+
+   "Bevi 2 sorsi se hai già fatto dei sogni erotici questa settimana",
+
+   "Bevi 4 sorsi se ti sei già masturbato-a senza che il tuo o la tua partner lo sapesse",
+
+   "$1, se segui Grande Fratello VIP o altri reality di Mediaset, bevi 5 sorsi",
+
+   "Bevi 3 sorsi se hai avuto un litigio di coppia questa settimana",
+
+   "Quelli che hanno fatto più studi di $1 bevono 3 sorsi!",
+
+   "Bevi 4 sorsi se hai già fatto finta di guardare altrove su un mezzo di trasporto pubblico per non cedere il posto ad un vecchio",
+
+   "$1, se hai già guidato a più di 150 km/h hai fatto male, bevi 3 sorsi, altrimenti distribuiscili",
+
+   "Quelli che hanno già letto uno dei \"Piccoli Brividi\" bevono 4 sorsi",
+
+   "$1 si toglie un vestito o beve 2 sorsi",
+
+   "Il primo o la prima che si toglie 2 vestiti distribuisce 4 sorsi",
+
+   "Bevi 5 sorsi se il tuo compagno o la tua compagna attuale è il-la migliore scopata della tua vita",
+
+   "$1, distribuisci 3 sorsi alla persona che trovi più bella",
+
+   "$1, distribuisci 3 sorsi alla persona che trovi più intelligente",
+
+   "$1, bevi 3 shottini o distribuisci 5 sorsi",
+
+   "$1, facci 5 secondi di tiptap o bevi 3 sorsi",
+
+   "$1, fai il ballo del robot o bevi 3 sorsi",
+
+   "$1, bevi 2 sorsi se hai già frequentato delle lezioni di danza, altrimenti distribuiscili",
+
+   "Piccola votazione della persona a cui puzzano di più i piedi fra di voi! Il vincitore beve 2 sorsi",
+
+   "$1, scriviti \"crauti\" sulla fronte o bevi 3 sorsi",
+
+   "$1, scriviti \"bagascia\" sulla fronte o bevi 2 sorsi",
+
+   "$1, scriviti \"vaselina\" sulla fronte o bevi 2 sorsi",
+
+   "$1, scriviti \"pene\" sulla fronte o bevi 2 sorsi",
+
+   "$1, scriviti \"viagra\" sulla fronte o bevi 2 sorsi",
+
+   "$1, aggiungi un analcolico o dell'alcol nel bicchiere di $2",
+
+   "Bevi 4 sorsi se credi che l'organo sessuale del-della tuo-a compagno-a abbia una forma strana",
+
+   "Bevi 3 sorsi se hai l'abitudine di parlare da solo-a chiamandoti per nome",
+
+   "L'ultimo giocatore ad essersi fatto la doccia beve 3 sorsi",
+
+   "Niente cioccolato per l'handicappato, $1 bevi un sorso senza mani",
+
+   "Quelli che oggi non hanno fatto la doccia bevono 4 sorsi",
+
+   "$1, bevi il numero di sorsi pari al numero di bicchieri non vuoti presenti sul tavolo",
+
+   "$1, bevi il numero di sorsi pari al numero di bicchieri vuoti presenti sul tavolo",
+
+   "Bevi 2 sorsi se hai alcol di pessima qualità",
+
+   "I tre giocatori più poveri bevono 4 sorsi",
+
+   "I tre giocatori più ricchi bevono 4 sorsi",
+
+   "$1, se hai già vomitato dal naso puoi distribuire 3 sorsi. In caso contrario bevili",
+
+   "In modalità \"Bello grezzo\"! $1 e $2 fanno la gara del bicipite più grosso e i giocatori sono la giuria. Chi perde 2 sorsi",
+
+   "$1, se hai già sentito dei rumori strani provenire dalla pancia perchè ti stavi trattenendo per non scoreggiare in pubblico, bevi 5 sorsi",
+
+   "$1, se sei già andato-a a letto interamente vestito-a perchè eri troppo ubriaco-a bevi 4 sorsi, altrimenti distribuiscili",
+
+   "Il giocatore che ha la banconota di valore più basso può distribuire 2 sorsi",
+
+   "Il giocatore che ha la banconota di valore più alto può distribuire 2 sorsi",
+
+   "$1 racconta un aneddoto su uno dei giocatori o bevi 5 sorsi",
+
+   "$1, se sei tornato prima delle 5:00 del mattino dalla tua ultima serata bevi 2 sorsi, altrimenti distribuiscili",
+
+   "$1, per amore, dai 3 sorsi al giocatore che ami di più",
+
+   "Quelli che sono già apparsi in TV bevono 2 sorsi",
+
+   "$1, o distribuisci un sorso a chi vuoi tu o $2 ne beve 5",
+
+   "Bevi 3 sorsi se pensi che qualcuno a questo tavolo non sia del tutto a posto",
+
+   "Bevi 1 sorso se sei single, 2 se sei impegnato-a, 3 se la questione è più complessa...",
+
+   "$1, se non resisti ad accarezzare un cane quando ce n'è uno nelle vicinanze bevi 2 sorsi",
+
+   "Quelli che hanno già iniziato un aperitivo prima delle 10:00 del mattino bevono 4 sorsi",
+
+   "Le ragazze bevono la loro taglia di reggiseno in sorsi",
+
+   "I ragazzi bevono la lunghezza del loro pene diviso 5 in sorsi",
+
+   "I vegetariani bevono 5 sorsi",
+
+   "I non vegetariani bevono 3 sorsi",
+
+   "$1, imita una tartaruga per 5 lunghi secondi o bevi 2 sorsi!",
+
+   "$1, imita una lumaca per 5 lunghi secondi o bevi 3 sorsi!",
+
+   "$1, imita una serpente per 5 lunghi secondi o bevi 4 sorsi!",
+
+   "5 sorsi per i fumatori",
+
+   "Scegliete quello o quella che ha l'abitudine di dormire prima degli altri nelle serate, questa persona berrà 5 sorsi",
+
+   "Nominate il meno castigato della serata che berrà 2 sorsi",
+
+   "Quelle o quelli che hanno già tirato di popper bevono 3 sorsi",
+
+   "$1, invia un messaggio all'ultima persona che hai contattato o bevi 4 sorsi",
+
+   "Quello e quella che ha le braccia più sottili beve 5 sorsi! Così fai un pò di esercizio...",
+
+   "Poveretti! Quelli che hanno dei centesimi in tasca possono far bere quelli che non ne hanno",
+
+   "L'ultimo ad appoggiare il pollice sul tavolo beve 2 sorsi",
+
+   "A turno aggiungete un pò di alcol nel vostro bicchiere, comincia $1",
+
+   "Bevi 3 sorsi se, ubriacone come sei, hai già perso la tua fermata addormentandoti su un trasporto pubblico",
+
+   "$1 e $2, ballate un lento di 30 secondi con le mani sul sedere, chi si rifiuta beve 5 sorsi",
+
+   "$1, dai un bacio a $2 oppure lui o lei beve 3 sorsi",
+
+   "$1 dai un bacio sulle chiappe di $2 o bevi 4 sorsi",
+
+   "La prima persona a tirar fuori un preservativo distribuisce 3 sorsi",
+
+   "$1, devi dire l'alfabeto al contrario senza sbagliarti in meno di 20 secondi, o bevi 5 sorsi",
+
+   "$1, se hai il telefono in tasca bevi 2 sorsi, altrimenti ne distribuisci 5"
+    ],
+    "shots":
+    [
+        "Shottino per $1 e $2!",
+
+    "Shottino per $1",
+
+    "$1 recita l'alfabeto al contrario, shottino al minimo errore",
+
+    "$1 ci fa il piacere di finire il suo bicchiere...",
+
+    "La prima persona a finire il suo bicchiere distribuisce uno shottino!",
+
+    "Recitate l'alfabeto dicendo una lettera a testa a turno, se $1 finisce il suo bicchiere prima, shottino per tutti!",
+
+    "I due giocatori che hanno il bicchiere più vuoto lo finiscono",
+
+    "Per quelli che dopo andranno in discoteca, motivatevi... Shottino!",
+
+    "$1, finisci il tuo bicchiere",
+
+    "Shottino per i calvi e i rossi",
+
+    "Shottino per i biondi",
+
+    "Al giocatore più piccolo: piangi come un bebè e finisci il tuo bicchiere",
+
+    "Al giocatore più vecchio: finisci il tuo bicchiere e esclama \"opplà\"",
+
+    "$1, conta fino a 40 prima che $2 finisca il suo bicchiere. Se non riesci bevi anche tu uno shottino!",
+
+    "Shottino per i castani",
+
+    "$1, decidi chi fra $2 e $3 beve uno shottino",
+
+    "Shottino per chi pesa meno di 60 kg",
+
+    "Shottino per chi pesa più di 80 kg",
+
+    "Giocatori con una M nel nome, shottino!",
+
+    "Shottino per tutti: Persone con una S nel nome, a voi!"
+    ],
+    "virus_on":
+    [
+    "$1 ora deve parlare cantando fino a nuovo ordine",
+
+    "E' ufficialmente vietato toccarsi i capelli o il viso! 3 sorsi ad ogni tocco",
+
+    "$1 è il capitano della squadra!\nMette la mano sul tavolo quando vuole, l'ultimo ad aver messo la mano sopra a quella del capitano beve 5 sorsi",
+
+    "$1 è l'occhio del serpente!\nOgni volta che qualcuno lo-la guarda negli occhi deve bere",
+
+    "$1 è un pezzo di merda!\nRivolgetevi a lui-lei insultandolo-a in ogni modo possibile immaginabile, lui-lei non ha il diritto di protestare",
+
+    "Devono tutti ignorare $1, vietato guardarlo-a e rivolgergli-le la parola",
+
+    "$1 è il maleducato della serata! Tieni i gomiti sul tavolo fino a nuovo ordine!",
+
+    "$1 è monco! Non può più usare le sue dita!",
+
+    "$1 devi restare su una gamba sola, ti diremo quando smettere!",
+
+    "$1 re del silenzio, bocca chiusa!",
+
+    "$1 ora deve alzare il dito per parlare ad è $2 che gli-le darà la parola",
+
+    "$1 ogni volta che parli devi fare un complimento a $2, pena 2 sorsi",
+
+    "Bisogna darsi del Lei, pena un sorso!",
+
+    "$1 non può più usare i pronomi personali fino a nuovo ordine (io,tu,lui,...), pena 3 sorsi",
+
+    "$1 è Batman! Parla come lui o bevi 5 sorsi ogni volta che parli",
+
+    "$1 sei il sostento del bar, ogni volta che bevi dovrai farlo con qualcuno a tua scelta che ti seguirà con gli stessi sorsi",
+
+    "E' vietato usare il verbo \"bere\", pena un sorso!",
+
+    "$1, inizia a massaggiare $2 senza lamentarti",
+
+    "$1 ha la sindrome di Tourette! Quando gridi una parolaccia, l'ultima persona ad imitarti beve 2 sorsi",
+
+    "$1, scegli una parola che dovrai dire ogni volta che qualcuno beve",
+
+    "$1 dovrà fare il verso di un animale dopo ogni sorso, $2 sceglie l'animale",
+
+    "$1 è un-a coccolone-a stasera! Ogni volta che accarezzi la nuca di qualcuno-a, lui-lei dovrà bere 3 sorsi",
+
+    "$1 è la regina delle tendenze: la regina balla quando vuole, l'ultima persona ad imitarla beve 2 sorsi",
+
+    "Ognuno sceglie il proprio capro espiatorio.\nOgni sorso destinato ad uno-a andrà all'altro-a, i sorsi saranno trasferiti una sola volta",
+
+    "$1 IST DEUTSCH! Lui o lei è ora obbligato-a a parlare con un accento tedesco!",
+
+    "$1 EST FRANCAIS! Lui o lei è ora obbligato-a a parlare con un accento francese!",
+
+    "$1 ES ESPANOL! Lui o lei è ora obbligato-a a parlare con un accento spagnolo!",
+
+    "Ritorno al futuro per Sara! Devi parlare al futuro, pena 3 sorsi!",
+
+    "Quando ci si rivolge a qualcuno bisogna finire con \"dammi il cinque\" e dargli-le un cinque",
+
+    "$1 l'orologio parlante! Devi dare l'ora esatta ad ogni minuto, 5 sorsi per ogni sbaglio",
+
+    "$1 è ora obbligato ad attendere 2 secondi fra ogni parola pronunciata! 2 sorsi per ogni sbaglio",
+
+    "$1 e ora obbligato-a a pronunciare ogni parola due volte di seguito, 3 sorsi per ogni dimenticanza",
+
+    "$1 è il-la vendicatore-vendicatrice! Ogni volta che qualcuno riceve un sorso da un altro giocatore, lui-lei può scegliere di assegnarli altrettanti sorsi",
+
+    "$1 è un paparazzo! Ogni volta che fai una foto a qualcuno senza che lui se ne accorga, beve 2 sorsi!",
+
+    "$1, è possibile farti delle domande in qualsiasi momento. Se non rispondi bevi",
+
+    "Vietato bere con la mano destra",
+
+    "Vietato fare domande, pena 4 sorsi",
+
+    "$1 sei il David Guetta dei poveri! Scegli le canzoni fino a nuovo ordine",
+
+    "$1, da questo momento sei obbligato-a a parlare con la bocca piena, pena 4 sorsi!",
+
+    "Fino a nuovo ordine, non appena $1 parla, $2 beve un sorso e viceversa",
+
+    "$1 si mette di spalle a tutti, ti diremo quando potrai tornare a girarti!",
+
+    "Nè si nè no! Quello o quella che pronuncia una delle due parole beve 2 sorsi fino a nuovo ordine",
+
+    "$1 da ora deve dire \"nel mio culo\" quando finisce ogni frase. Bevi ad ogni dimenticanza",
+
+    "Da ora bisogna dire una parolaccia ad ogni frase",
+
+    "$1 l'applauditore pazzo! Tutte le volte che batti le mani tutti bevono(anche tu)!",
+
+    "$1, da ora deve dire \" è chiaro\" ogni volta che qualcuno finisce di parlare, pena un sorso!",
+
+    "$1 l'asociale! Parli solo con $2 perchè è il-la tuo-a unico-a amico-amica",
+
+    "Regola del bufalo! Nessuno potrà più tenere il proprio bicchiere con la mano destra, pena un sorso",
+
+    "$1 devi imitare i gesti di $2 fino a che non ti diciamo di smettere!",
+
+    "$1 e $2 siete delle bombe a mano! Ogni volta che uno di voi finisce il proprio bicchiere, tutti bevono",
+
+    "$1 sei obbligato-a a rispondere ad una domanda con un'altra domanda. Bevi ogni volta che te ne dimentichi",
+
+    "$1 balla sul posto e non smettere o bevi un sorso ad ogni nuovo evento",
+
+    "Per tutti: iniziate le vostre frasi con \"eeeehhhmmmm\" che deve durare almeno 3 secondi. 3 sorsi per ogni dimenticanza",
+
+    "$1 sei guercio! Chiudi un occhio fino a nuovo ordine!",
+
+    "$1, il-la sovietico-a! Da Da! Imita l'accento russo fino a nuovo ordine, 5 sorsi per ogni dimenticanza",
+
+    "$1 si siede sulle gambe di $2",
+
+    "Ringraziate $1 che da adesso serve i bicchieri",
+
+    "$1 è l'arbitro di Western! Nomina quando vuoi due giocatori, i cow boy. Il primo a farsi sparare dall'altro beve 5 sorsi",
+
+    "Siate educati! Rivolgetevi l'uno con l'altro con Sig. Sig.ra seguito dal cognome. 4 sorsi ad ogni dimenticanza",
+
+    "$1 sei il vecchio saggio! Vietato far vedere i tuoi denti fino a nuovo ordine!",
+
+    "$1, lascia il tuo telefono a $2 fino a nuovo ordine...",
+
+    "$1 sei l'asiatico-a del gruppo! Fatti gli occhi a mandorla fino a nuovo ordine",
+
+    "Da ora ci si può rivolgere a qualcuno solo con una domanda!",
+
+    "$1 timidone-a! Non potrà rispondere a nessuna domanda, pena 4 sorsi!",
+
+    "Nuova regola! Ognuno sceglie un segno, d'ora in poi ogni giocatore dovrà fare il segno della persona a cui si rivolge!",
+
+    "$1 fissa il tuo sguardo su $2 fino a nuovo ordine",
+
+    "$1 devi imitare i gesti di $2 finchè non ti diciamo di smettere!",
+
+    "$1 il pappagallo! Da adesso devi ripetere tutto quello che dice $2",
+
+    "$1 tiene entrambe le mani sulla testa tranne che per bere!",
+
+    "$1 da ora deve parlare con un accento snob fino a nuovo ordine!",
+
+    "$1 è bipolare! Devi dire l'esatto contrario di quello che pensio fino a nuovo ordine!",
+
+    "$1 deve camminare costantemente, pena 3 sorsi!",
+
+    "D'ora in poi tutti dovranno rivolgersi a $1 con \"Maestro\"",
+
+    "$1 mettiti in ginocchio... Ti diremo quando potrai rialzarti!",
+
+    "Ogni spreco d'alcol sarà d'ora in poi penalizzato con 4 sorsi. (la pipì è spreco)",
+
+    "$1 da ora deve parlare con un accento africano fino a nuovo ordine!",
+
+    "$1 deve alzarsi e mettersi seduto-a ad ogni nuovo evento! Lui-lei beve 3 sorsi ad ogni sbaglio!",
+
+    "$1 da ora deve rispondere negativamente quando gli si chiede qualcosa e deve anche argomentarlo",
+
+    "$1 è sposato-a con $2, bevete lo stesso numero di sorsi",
+
+    "Nuova regola! Ognuno dovrà togliere la cannuccia immaginaria dal suo bicchiere ogni volta che beve e rimetterla in seguito",
+
+    "Nuova regola! Ogni volta che si parla si deve finire la frase con \"cazzo $1 non rompere i coglioni\"",
+
+    "Bisogna insultare il-la proprio-a vicino-a di destra ogni volta che si beve",
+
+    "$1 tu hai il freezer. Ogni volta che smetti di muoverti (discretamente) l'ultimo giocatore a fare lo stesso beve 2 sorsi",
+
+    "E' ora vietato indicare un giocatore con il dito",
+
+    "Vietato rivolgersi a qualcuno con il suo nome"
+    ],
+    "virus_off":
+    [
+    "$1 può tornare a parlare normalmente",
+
+    "Potete nuovamente toccarvi la testa",
+
+    "$1 non sei più il capitano!",
+
+    "$1 non è più l'occhio del serpente",
+
+    "Tutti bevono 3 sorsi tranne $1 che non è più un pezzo di merda",
+
+    "Potete smettere di ignorare $1",
+
+    "$1 ha capito cos'è l'educazione, togli i gomiti dal tavolo!",
+
+    "$1 può tornare a usare le dita!",
+
+    "$1 puoi tornare ad una posizione comoda!",
+
+    "$1 può parlare di nuovo",
+
+    "$1 non deve più chiedere la parola a $2",
+
+    "$1 non sei più obbligato-a a fare un complimento a $2",
+
+    "Possiamo smettere di darci del Lei",
+
+    "$1 può tornare a parlare normalmente!",
+
+    "$1 non sei più Batman!",
+
+    "$1 non sei più il sostento del bar",
+
+    "Possiamo nuovamente usare il verbo bere",
+
+    "$1, puoi smettere di massaggiare e $2 beve 4 sorsi",
+
+    "$1 è guarito-a dalla sindrome!",
+
+    "$1, non devi più dire una parola ogni volta che qualcuno beve",
+
+    "$1 può smettere di fare i versi animali, e $2 beve 3 sorsi per l'umiliazione provocata",
+
+    "$1 non è più il-la coccolone-a pazzo-a!",
+
+    "$1 non è più la regina delle tendenze!",
+
+    "Basta capri espiatori!",
+
+    "$1 può riprendere un accento normale",
+
+    "$1 può riprendere un accento normale",
+
+    "$1 può riprendere un accento normale",
+
+    "$1 può tornare al presente!",
+
+    "I \" cinque\" non sono più obbligatori",
+
+    "$1 non sei più l'orologio parlante",
+
+    "$1 può tornare a parlare normalmente!",
+
+    "$1 puoi tornare a parlare normalmente",
+
+    "$1 non è più il-la vendicatore-vendicatrice!",
+
+    "$1 non è più un paparazzo!",
+
+    "$1 può smettere di rispondere alle vostre domande schifose",
+
+    "Potete nuovamente utilizzare la mano destra per bere",
+
+    "Si può nuovamente fare domande",
+
+    "$1 non sei più il DJ ufficiale",
+
+    "$1 può tornare a parlare normalmente!",
+
+    "$1 e $2 possono nuovamente parlare senza bere o far bere",
+
+    "$1 può tornare a girarsi verso la folla!",
+
+    "Il gioco del nè si nè no è finito",
+
+    "$1 non è più obbligato-a a finire le sue frasi dicendo \"nel mio culo\"",
+
+    "Non è più obbligatorio dire parolacce, cazzo",
+
+    "$1 smette di essere l'applauditore pazzo",
+
+    "Fine della regola \"è chiaro\" per $1",
+
+    "$1 può dinuovo parlare con tutti",
+
+    "Fine alla regola del bufalo!",
+
+    "$1 basta imitare $2",
+
+    "$1 e $2 potete smettere di riversare sorsi sugli altri quando finite il bicchiere",
+
+    "$1 puoi rispondere alle domande normalmente",
+
+    "$1 può smettere di ballare!",
+
+    "potete smettere di dire \"eeeehhhmmmm\" ad ogni inizio frase",
+
+    "$1 torna a vedere normalmente",
+
+    "$1 non è più russo-a",
+
+    "$1 non è più obbligato a restare sulle gambe di $2",
+
+    "$1 ha servito abbastanza, ora può smettere",
+
+    "$1 non è più l'arbitro di Western",
+
+    "Potete nuovamente rivolgervi con il vostro nome normale",
+
+    "$1 puoi nuovamente mostrare i tuoi denti",
+
+    "$1 può riprendere il suo telefono",
+
+    "$1, non sei più l'asiatico-a!",
+
+    "Non siete più obbligati ad indirizzarvi alla gente con una domanda!",
+
+    "$1 può tornare a rispondere alle domande",
+
+    "Basta fare segni",
+
+    "$1 può smettere di fissare $2",
+
+    "$1, basta imitare $2!",
+
+    "$1 smetti di ripetere quello che dice $2, è fastidioso!",
+
+    "$1 può smettere di tenere le mani sulla testa!",
+
+    "$1 può riprendere un accento normale!",
+
+    "$1 non è più bipolare",
+
+    "$1 può smettere di camminare!",
+
+    "$1 non è più il Maestro",
+
+    "$1 puoi alzarti",
+
+    "Basta penalizzazioni per lo spreco, potete rovesciare i bicchieri e svuotare le vesciche",
+
+    "$1 può riprendere un accento normale!",
+
+    "$1 può tornare a mettersi comodo!",
+
+    "$1 non è più obbligato-a a rispondere a tutte le domande!",
+
+    "E' finita! $1 e $2 divorziano",
+
+    "Basta con le cannucce immaginarie, sembrate scemi",
+
+    "$1 non rompe più i coglioni a nessuno! E può distribuire 2 sorsi",
+
+    "Non è più necessario insultare il-la vicino-a di destra",
+
+    "$1 non hai più il freezer",
+
+    "Possiamo nuovamente indicare i giocatori con il dito",
+
+    "Ci si può nuovamente rivolgere a qualcuno con il suo nome"
+    ]
+
+
+}
