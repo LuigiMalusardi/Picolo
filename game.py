@@ -9,7 +9,7 @@ class Game:
         self.action_incr_num = 0
         self.settings = Settings()
         self.action_types = ['giochi','obblighi','shots','virus']
-        self.type_weights = [40,40,5,15]
+        self.type_weights = [25,40,10,25]
         self.action_type = ''
         self.action_text = ''
         self.players = []

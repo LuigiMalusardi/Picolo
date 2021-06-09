@@ -8,7 +8,7 @@ class MainWindow(tk.Frame):
         self.game = game
         self.grid(row=0,column=0,sticky=tk.NSEW)
         self.columnconfigure(1,weight=1)
-        self.rowconfigure(3,weight=1)
+        self.rowconfigure(4,weight=1)
 
         #Title label
         self.type_title = tk.StringVar(self)
@@ -22,7 +22,7 @@ class MainWindow(tk.Frame):
         self.continue_btn = tk.Button(self,text='Avanti',command=self.on_continue_press,font=('Arial',20))
 
         #Exit button
-        self.exit_btn = tk.Button(self,text='Exit',command=self.on_exit_press)
+        self.exit_btn = tk.Button(self,text='Exit',command=self.on_exit_press,height=50,width=10,pady=10)
 
         #Virus listbox
         virus_reminder = ''
@@ -30,15 +30,15 @@ class MainWindow(tk.Frame):
         for v in self.game.active_virus:
             virus_reminder += '- ' + v.active_complete_txt + '\n'
         self.virus_txt = tk.StringVar(self)
-        self.virus_txt_message = tk.Label(self,textvariable=self.virus_txt,anchor=tk.W,height=5)
+        self.virus_txt_message = tk.Label(self,textvariable=self.virus_txt,anchor=tk.W,height=30,wraplength=520)
         self.virus_txt.set(virus_reminder)
 
         #Grid layout
         self.title_lbl.grid(row=0,column=0,columnspan=2)
         self.action_lbl.grid(row=1,column=0,columnspan=2,sticky=tk.NSEW,pady=30)
         self.continue_btn.grid(row=2,column=0,columnspan=2,pady=20)
-        self.exit_btn.grid(row=3,column=0,ipadx=5)
-        self.virus_txt_message.grid(row=3,column=1,sticky=tk.NSEW)
+        self.exit_btn.grid(row=3,column=0,rowspan=2,ipadx=5)
+        self.virus_txt_message.grid(row=3,column=1,rowspan=2,sticky=tk.NSEW)
 
     def on_exit_press(self):
         #Azione alla pressione del pulsante exit
@@ -52,6 +52,8 @@ class MainWindow(tk.Frame):
         self.game.next_action_task()
         a_type,a_txt = self.game.get_next_action_data()
 
+        #Cambio colore
+        self.change_colors(a_type)
         #Titolo in maiuscolo
         a_type = a_type.upper()
         #Imposto a schermo i vari testi
@@ -59,11 +61,29 @@ class MainWindow(tk.Frame):
         self.type_title.set(a_type)
         virus_reminder = ''
         for v in self.game.active_virus:
-            virus_reminder += '- ' + v.active_complete_txt + '\n'
+            text = v.active_complete_txt.replace('\n',' ')
+            virus_reminder += '- ' + text + '\n'
         self.virus_txt.set(virus_reminder)
 
         #Se gioco finito converto btn continua in btn esci
         if self.game.action_type == 'FINE':
             self.continue_btn.config(text='Esci',command=self.on_exit_press)
 
+    def change_colors(self,action_type):
+        #Cambia il colore sfondo in base all'azione
+        green = '#5cd65c'
+        red = '#ff3333'
+        yellow = '#ffe066'
+        blue = '#4db8ff'
+        white = '#ffffff'
 
+        mDict = {'giochi':green,'shots':red,'virus':yellow,'obblighi':blue,'FINE':white}
+
+        color = mDict[action_type]
+
+        self.config(bg=color)
+        self.title_lbl.config(bg=color)
+        self.action_lbl.config(bg=color)
+        self.continue_btn.config(bg=color)
+        self.exit_btn.config(bg=color)
+        self.virus_txt_message.config(bg=color)
